@@ -1,7 +1,7 @@
 # Secret Santa
 
 A program to administrate a game of secret santa.
-Takes in a tsv file of the format:
+Takes in a .tsv file of the format:
 
 <pre> Person's Name    Their email address    Things they like </pre>
 
